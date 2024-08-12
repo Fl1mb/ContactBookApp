@@ -1,0 +1,13 @@
+debug/application.o
+debug/database.o
+debug/human.o
+debug/infoapp.o
+debug/main.o
+debug/querywindow.o
+debug/Trie.o
+debug/qrc_res.o
+debug/moc_application.o
+debug/moc_database.o
+debug/moc_human.o
+debug/moc_infoapp.o
+debug/moc_querywindow.o

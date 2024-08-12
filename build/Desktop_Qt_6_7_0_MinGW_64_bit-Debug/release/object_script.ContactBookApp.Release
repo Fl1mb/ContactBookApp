@@ -1,0 +1,13 @@
+release/application.o
+release/database.o
+release/human.o
+release/infoapp.o
+release/main.o
+release/querywindow.o
+release/Trie.o
+release/qrc_res.o
+release/moc_application.o
+release/moc_database.o
+release/moc_human.o
+release/moc_infoapp.o
+release/moc_querywindow.o
